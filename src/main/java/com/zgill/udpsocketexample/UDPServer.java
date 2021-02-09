@@ -1,4 +1,4 @@
-package com.zgill.udpexample;
+package com.zgill.udpsocketexample;
 
 import java.net.*;
 import java.io.*;
